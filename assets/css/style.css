@@ -1,0 +1,13 @@
+html, body{
+    background: url("../images/trivia.jpg") 
+}
+
+#subwrapper {
+    background-attachment: fixed; 
+    display: block;
+    width: 500px;
+	margin: 70px 0;
+	padding: 40px;
+	background-color: red;
+    border: 1px solid rgb(0, 255, 98);
+}
